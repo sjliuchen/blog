@@ -117,7 +117,7 @@ pagination:
 ############## 其他 ##############
 
 # 页脚
-footer: By [Chen Liu](https://github.com/sjliuchen)  # markdown语法
+footer: By [Chen Liu](https://github.com/sjliuchen) | 闽ICP备2022012655号-1 # markdown语法
 
 #有分类时是否开启menu分类页和自定义名字
 menu_categories:
