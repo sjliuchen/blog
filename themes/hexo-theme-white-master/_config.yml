@@ -117,7 +117,7 @@ pagination:
 ############## 其他 ##############
 
 # 页脚
-footer: Power by [Hexo](http://hexo.io/) Theme by [White](https://github.com/FuShaoLei/hexo-theme-white) # markdown语法
+footer: 闽ICP备2022012655号-1
 
 #有分类时是否开启menu分类页和自定义名字
 menu_categories:
