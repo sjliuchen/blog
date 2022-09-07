@@ -29,26 +29,26 @@ tags:
 
 archive_img_mode:
   default_cover: #默认的cover
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/01.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/02.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/03.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/04.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/05.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/06.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/07.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/08.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/09.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/10.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/11.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/12.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/13.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/14.jpg
-    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/15.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/01.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/02.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/03.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/04.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/05.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/06.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/07.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/08.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/09.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/10.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/11.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/12.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/13.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/14.jpg
+#    - https://cdn.jsdelivr.net/gh/fushaolei/cdn-white@1.0/cover/15.jpg
 
 # icon
 icon:  #标签页图标
 #  header
-site_name: white.
+site_name: Hello !
 site_description: A minimalist theme for hexo. #The default meta description for all the meta descriptions
 #Add description property to any page to change the meta description
 menu:
@@ -66,7 +66,7 @@ search:
 # 自我介绍
 intro:
   title: Hi.I'm Chen Liu.
-  sub: 'A [White](https://github.com/FuShaoLei/hexo-theme-white) theme for [Hexo](http://hexo.io/)' # markdown语法
+#  sub: 'A [White](https://github.com/FuShaoLei/hexo-theme-white) theme for [Hexo](http://hexo.io/)' # markdown语法
   avator: https://wx2.sinaimg.cn/mw1024/85cd66c5ly8gnt2l3xd43j20e80e8gmb.jpg #头像 暂时还没用到
   author: Chen Liu #所有文章的默认作者
 
@@ -74,7 +74,7 @@ intro:
 #更多图标：https://remixicon.com/
 contact:
   Github:
-    - hhttps://github.com/sjliuchen
+    - https://github.com/sjliuchen
     - ri-github-line
   Email:
     - mailto:sjliuchen@outlook.com
