@@ -29,7 +29,7 @@ tags:
 
 archive_img_mode:
   default_cover: #默认的cover
-    - https://wx3.sinaimg.cn/mw2000/85cd66c5ly1grcijnezzaj20yf19wkjm.jpg
+    - https://raw.githubusercontent.com/sjliuchen/blog/master/IMG_5551%202.HEIC
 
 # icon
 icon:  #标签页图标
