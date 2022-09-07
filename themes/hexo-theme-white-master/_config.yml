@@ -4,10 +4,10 @@ style:
     max-width: 1130px #总体宽度
     post-max-width: 800px #文章内容宽度
   color:
-    theme-main: "#1A98FF" # 主色调
-    theme-secondary: "#DDF0FF" # 次色调
-    text-main: "#333333" # 文字主色调
-    text-secondary: "#898FA0" # 文字次色调
+    theme-main: "#003262" # 主色调
+    theme-secondary: "#c4820e" # 次色调
+    text-main: "#FFFFFF" # 文字主色调
+    text-secondary: "#003262" # 文字次色调
   animation:
     open: true # 如果开启动画的话会引入animation.css
 
