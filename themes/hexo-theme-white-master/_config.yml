@@ -29,7 +29,6 @@ tags:
 
 archive_img_mode:
   default_cover: #默认的cover
-    - https://wx2.sinaimg.cn/mw2000/85cd66c5ly8glb7x8apisj20u00u0wir.jpg
 
 # icon
 icon:  #标签页图标
