@@ -65,7 +65,6 @@ search:
 # 自我介绍
 intro:
   title: Hi.I'm Chen Liu.
-#  sub: 'A [White](https://github.com/FuShaoLei/hexo-theme-white) theme for [Hexo](http://hexo.io/)'
   avator: https://wx2.sinaimg.cn/mw1024/85cd66c5ly8gnt2l3xd43j20e80e8gmb.jpg #头像 暂时还没用到
   author: Chen Liu #所有文章的默认作者
 
