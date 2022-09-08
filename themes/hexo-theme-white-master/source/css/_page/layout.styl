@@ -1,30 +1,30 @@
 /* logo用的Century Gothic字体 */
 /* 全局样式 */
-* 
+*
   padding 0
   margin 0
-body 
+body
   height 100%
   width 100%
-a 
+a
   text-decoration none
   color $color-text-main
-body,p,div,span 
+body,p,div,span
   letter-spacing: .7px
 /* 滚动条 */
-::-webkit-scrollbar 
+::-webkit-scrollbar
   width 5px
   height 5px
-  background-color #ffffff
-::-webkit-scrollbar-thumb 
+  background-color #003262
+::-webkit-scrollbar-thumb
   background-color $color-theme-main
 /* menu */
 .menu-outer
-  font-family Gothic 
+  font-family Gothic
   width 100%
   display flex
   justify-content center
-.menu-inner 
+.menu-inner
   width $layout-max-width
   display flex
   justify-content space-between
@@ -32,25 +32,25 @@ body,p,div,span
   padding-top 40px
   padding-bottom 30px
   transition all .3s
-.menu-site-name 
+.menu-site-name
   font-family Gothic
   font-size 1.6em
-.menu-ul 
+.menu-ul
   list-style none
-.menu-li 
+.menu-li
   float left
   margin-right 30px
   font-size 0.9em
   color $color-text-secondary
   position relative
   transition all .3s
-  &:hover 
+  &:hover
     color $color-text-main
-.active-link 
-  li 
+.active-link
+  li
     position relative
     color $color-text-main
-    &:after 
+    &:after
       content ""
       position absolute
       top 100%
@@ -59,8 +59,8 @@ body,p,div,span
       bottom -.2em
       transition all .3s
       background-color $color-theme-main
-    &:hover 
-      &:after 
+    &:hover
+      &:after
         right 50%
 
 /* sort */
@@ -89,35 +89,35 @@ body,p,div,span
 
 
 /* body */
-.body-outer 
+.body-outer
   height 100%
   width 100%
   display flex
   justify-content center
-.body-inner 
+.body-inner
   width $layout-max-width
   background-color #fff
 /* home */
-.intro-content 
+.intro-content
   margin-top 150px
   width 80%
-.intro-title 
+.intro-title
   font-family Gothic
   font-size 4.5em
   font-weight 1000
   margin 0
   padding 0
-.intro-sub 
+.intro-sub
   font-family Gothic
   margin-top 30px
   font-size 1.2em
   line-height 1.8em
   margin-left 5px
-  a 
+  a
     display inline-block
     font-family Gothic
     position relative
-    &:after 
+    &:after
       content ""
       position absolute
       top 93%
@@ -126,24 +126,24 @@ body,p,div,span
       bottom -.04em
       transition all .3s
       background-color $color-theme-main
-    &:hover 
-      &:after 
+    &:hover
+      &:after
         right 50%
 /* intro-sub中超链接的样式 */
-.intro-contact 
+.intro-contact
   margin-top 10px
   font-size 1.5em
   line-height 1.8em
   margin-left 5px
-.intro-content,a 
+.intro-content,a
   color #2e2e2e
   text-decoration none
   margin-right 3px
 /* archive */
-.archive-outer 
+.archive-outer
   display flex
   justify-content center
-.archive-inner 
+.archive-inner
   margin-top 30px
   width 80%
   margin-bottom 100px
@@ -152,7 +152,7 @@ body,p,div,span
   margin: 40px 0px 30px 0px
   font-family: Merriweather
   text-align: center
-.archive-post 
+.archive-post
   line-height 1.5em
   font-size 1em
   background-color #fff
@@ -161,15 +161,15 @@ body,p,div,span
   display flex
   margin: 7px 0px
   &:hover
-    .archive-post-title 
+    .archive-post-title
       color: $color-theme-main
 
-.archive-post-title 
+.archive-post-title
   font-size 1.1em
   transition .4s
   font-family Gothic
   margin-right auto
-.archive-post-date 
+.archive-post-date
   font-family: Merriweather
   color $color-theme-main
   font-weight: 1000
@@ -178,14 +178,14 @@ body,p,div,span
   border-radius 5px
   padding 0px 10px
   transition all .4s
-.paginator 
+.paginator
   margin 50px 0px
   text-align center
-  .page-number 
+  .page-number
     display none
   .space
     display none
-  .extend 
+  .extend
     margin 0 10px
     background-color $color-theme-secondary
     color $color-theme-main
@@ -194,47 +194,47 @@ body,p,div,span
     font-size 0.9em
     font-weight 1000
     transition all .4s
-    &:hover 
+    &:hover
       color #fff
       background-color $color-theme-main
 /* footer */
-.footer-outer 
+.footer-outer
   display flex
   justify-content center
   font-family Gothic
-.footer-inner 
+.footer-inner
   padding 40px 0px
   width $layout-max-width
   display flex
   justify-content space-between
-.footer-text 
+.footer-text
   color $color-text-secondary
   font-size 1em
-  a 
+  a
     color $color-text-secondary
     font-size 1em
     transition all .3s
-    &:hover 
+    &:hover
       color $color-theme-main
-.footer-contact 
+.footer-contact
   font-size 1.2em
-.footer-ul 
+.footer-ul
   list-style none
-.footer-li 
+.footer-li
   float left
   margin-right 10px
   transition all .3s
-  i 
+  i
     color $color-text-secondary
     font-size 1.2em
     transition all .3s
     padding 5px
     border-radius 100%
-  &:hover 
-    i 
+  &:hover
+    i
       color $color-theme-main
 /* gitalk-saysay优化 */
-.gitalk-saysay 
-  & > #gitalk-container 
-    .gt-counts 
+.gitalk-saysay
+  & > #gitalk-container
+    .gt-counts
       display none
