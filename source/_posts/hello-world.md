@@ -1,8 +1,7 @@
 ---
-title: 起床更新 2022 Apple Event
+title: 2022 Apple Event
 ---
 
-### *<u>Hello World ！</u>*
 
 睡觉起来继续搞Web
 
