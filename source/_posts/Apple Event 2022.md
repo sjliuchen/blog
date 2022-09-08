@@ -1,6 +1,8 @@
 ---
-
+title: 2022 Apple Event
 ---
+
+
 
 # <center>Apple Event 2022
 
@@ -57,7 +59,7 @@
 
 #### <font color="\#87CEEB">Apple Watch Series 8</font>
 
-<img src="/Users/chenliu/Desktop/截屏2022-09-08 09.47.28.png" alt="截屏2022-09-08 09.47.28"  />
+<img src="/Users/chenliu/Desktop/截屏2022-09-08 09.47.28.png" alt="截屏2022-09-08 09.47.28" style="zoom:;" />
 
 1. 颜色方面，铝制四种颜色，不锈钢三种颜色（<font color="\#87CEEB">银色、金色、石墨色</font>）， 
 2. Apple Watch Series 8 新增体温传感器用于监测女性生理曲线，可以预测女性的排卵期，进而更好的计划生育。
